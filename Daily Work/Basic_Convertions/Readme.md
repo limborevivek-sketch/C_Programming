@@ -1,4 +1,4 @@
-# Assignment 1 – C Programming
+ C Programming
 
 This assignment contains five C programs based on mathematical calculations, area calculations, and unit conversions using functions in C.
 
